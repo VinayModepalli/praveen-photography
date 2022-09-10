@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+section{
+    /*padding: 60px 0;*/
+}
+.fill { 
+    min-height: 100%;
+}
+
+#intro img{
+    object-fit: contain;
+}
+.social{
+    padding: 10px;
+}
+.social i{
+    font-size: 2rem;
+    color: rgb(148, 148, 148)
+}
+.social i:hover{
+    font-size: 2rem;
+    color: rgb(255, 255, 255)
+}
+.social a{
+    padding: 3px;
+}
+
+.copyright {
+    padding: 10px;
+}
